@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of David Jenkins late prisoner in the Tower of London; concerning the Parliaments army, and the lawes and liberties of the people of England. With the copy of his letter sent from VVallingford Castle, to his dread soveraign the King; and his advice and directions touching the treaty. Subscribed, David Jenkins.</title>
+            <author>Jenkins, David, 1582-1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87527</idno>
+            <idno type="STC">Wing J589</idno>
+            <idno type="STC">Thomason E467_31</idno>
+            <idno type="STC">ESTC R205310</idno>
+            <idno type="EEBO-CITATION">99864722</idno>
+            <idno type="PROQUEST">99864722</idno>
+            <idno type="VID">162320</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87527)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162320)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E467[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of David Jenkins late prisoner in the Tower of London; concerning the Parliaments army, and the lawes and liberties of the people of England. With the copy of his letter sent from VVallingford Castle, to his dread soveraign the King; and his advice and directions touching the treaty. Subscribed, David Jenkins.</title>
+                  <author>Jenkins, David, 1582-1663.</author>
+               </titleStmt>
+               <extent>[2], 6 p. : ill. (port.)  </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] ye 16th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Civil rights --  England --  Sources --  Early works to 1800.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+               <term>Prisoners --  Legal status, laws, etc. --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162320:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 52 -->
+            <p>THE DECLARATION OF David Jenkins</p>
+            <p>Late priſoner in the Tower of <hi>London;</hi> concerning the <hi>Par<g ref="char:EOLhyphen"/>liaments Army,</hi> and the Lawes and Liberties of the People of <hi>ENGLAND.</hi>
+            </p>
+            <p>With the Copy of his Letter ſent from <hi>VVallingford</hi> Ca<g ref="char:EOLhyphen"/>ſtle, to his Dread Soveraign the <hi>KING;</hi> and his Advice and Directions touching the <hi>Treaty.</hi>
+            </p>
+            <p>Subſcribed, <hi>DAVID JENKINS.</hi>
+            </p>
+            <figure>
+               <figDesc>portrait of David Jenkins</figDesc>
+            </figure>
+            <p>Printed in the Yeer, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162320:2"/>
+            <!-- PDF PAGE 53 -->
+            <pb n="1" facs="tcp:162320:2"/>
+            <!-- PDF PAGE 53 -->
+            <head>JUDGE JENKINS DECLARATION</head>
+            <head type="sub">Concerning The Parliaments Army, and the Lawes and Liberty of the People.</head>
+            <p>VVHereas the Army (under the Com<g ref="char:EOLhyphen"/>mand of the Lord General <hi>Fairfax</hi>) have and do ſtill indeavour the exe<g ref="char:EOLhyphen"/>cuting and bringing to tryall the Capitall Offenders of theſe <hi>Times,</hi> and to execute and inflict exemplary and condign puniſhment upon thoſe who have acted con<g ref="char:EOLhyphen"/>trary to the fundamentall laws of this <hi>Kingdom,</hi> whom
+<pb n="2" facs="tcp:162320:3"/>
+               <!-- PDF PAGE 54 -->they account to be the great and ſole enemies to <hi>peace</hi> and <hi>truth,</hi> and the only Caterpillars which caſts the unſavoury miſt to eclipſe the brightneſſe and ſplendor of the true conſonant VVord of God; therefore, to re<g ref="char:EOLhyphen"/>move thoſe who are the moſt prevalent, and by their poyſonous Pills, and painted papers, infects the hearts of divers well affected in and about the City of <hi>Lon<g ref="char:EOLhyphen"/>don;</hi> it was thought requiſite, by the <hi>Lords</hi> and <hi>Com<g ref="char:EOLhyphen"/>mons</hi> aſſembled in <hi>Parliament,</hi> to remove Judge <hi>Jin<g ref="char:EOLhyphen"/>kins</hi> the <hi>Oracle of his time, in eſteem with many in Lon<g ref="char:EOLhyphen"/>don</hi>) from <hi>Neugate</hi> to <hi>Wallingford</hi> Caſtle, and having a Convoy from the City to conduct him thither, on Sunday laſt he was met by a party of horſe from the Army at <hi>Vxbridge,</hi> who deſiring a conference with ſome of the Commanders, it was aſſented to, where he declared, <hi>That he had alwayes a good opinion of the Ar<g ref="char:EOLhyphen"/>my, and (notwithstanding his oppoſing the power and Ordinances of</hi> Parliament, <hi>and the inſufferable and long impriſonment inflicted upon his weak and frail body) were reſolved to ſacrifice his life for the Lawes of the Land, the Goſpell of Ieſus Chriſt, and the liberties of the people of</hi> England; <hi>ſaying, that he would ſubmit to any thing that ſhould be concluded by the</hi> King and Parliament, <hi>but would dye with the Laws, rather then act against them, before they be repealed, but then he would ſubmit to any.</hi>
+            </p>
+            <p>So ſoon as he had declared his Senſe and Reſolution touching the Army, the fundamentall Lawes of the Land, the Government of the Church of <hi>England,</hi> the Power and Prerogative of his Prince, and the common Rights, Freedom, and Liberties of the people; A Co<g ref="char:EOLhyphen"/>lonell then preſent, asked him, whether he thought the
+<pb n="3" facs="tcp:162320:3"/>
+               <!-- PDF PAGE 54 -->
+               <hi>King</hi> might do what he will; he ſaid, yes, <hi>with the con<g ref="char:EOLhyphen"/>ſent of his Judges and Ministers:</hi> it being objected, <hi>what if they be corrupted;</hi> he anſwered, <hi>they muſt be o<g ref="char:EOLhyphen"/>beyed,</hi> and ſo the Conference ended; which being done, on Sunday in the afternoon he was conducted from <hi>Vxbridge</hi> to <hi>VVallingford,</hi> by a Troop of horſe belong<g ref="char:EOLhyphen"/>ing to the Army.</p>
+            <p>
+               <q>Omnia jura ſunt in manu Regis,
+<bibl>Ezr. 7.26.</bibl>
+               </q>
+               <q>Whoſoever will not do the Law of thy God, and the Law of the King, let judgment be executed ſpeedily upon him, whether it be unto Death, or to Baniſhment, or to Con<g ref="char:EOLhyphen"/>fiſcation of Goods, or to Impriſonment.</q>
+            </p>
+            <p>
+               <hi>EZra</hi> concludes with bleſſing, that the <hi>Kings</hi> heart was for <hi>God, v.</hi> 27. and mercy to him from the Au<g ref="char:EOLhyphen"/>thor; and ſo many inſtruments, as the <hi>King,</hi> his <hi>Councel<g ref="char:EOLhyphen"/>lors,</hi> and <hi>Princes, v.</hi> 28. The <hi>King</hi> received a government from his Anceſtors, ſuch as the Nation were never un<g ref="char:EOLhyphen"/>der before, and of all forms it came next to the divine pattern, for God himſelf rules by ſeven Spirits which are before his Throne, <hi>Rev.</hi> 1.4. &amp; 4.5. called 7 Eyes, <hi>Zec.</hi> 4.10. not to inform the Almighty, but to be his Witneſſes, and wiſe workers of all his Councels: this was derived to his people, who ſhewed him his name in Gods Book, with his great Office to be Gods Shephard, which cauſed great admiration, And <hi>Artaxerxs</hi> with his 7 Councellors following the ſteps of <hi>Cyrus,</hi> hono<g ref="char:EOLhyphen"/>red the God of heaven more then any hod done before them, being Pagans: So happy is it for Kings to learn from God, and to have <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Law go before theirs, and when there is ſuch a conjunction, Judgment is ſeaſo<g ref="char:EOLhyphen"/>nable upon all Offenders.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="proposals">
+                        <pb n="4" facs="tcp:162320:4"/>
+                        <!-- PDF PAGE 55 -->
+                        <head>His Maiesties Propoſals touching Church-Government, to the Parliaments Commiſſioners.</head>
+                        <p n="1">1. His Majeſty ſaid, <hi>He had been bred and inſtructed in the way He stands for, and that by his Father, the wi<g ref="char:EOLhyphen"/>ſeſt King, and beſt man in the world; therefore could not eaſily yeeld, n<gap reason="illegible: missing" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>r muſt it be wondred if He did not.</hi>
+                        </p>
+                        <p>The Miniſters anſwer for ſatisfaction, the courſe was held: and deſired he declared his ſcruples.</p>
+                        <p>His Majeſty replyed, <hi>He had yeelded far, having de<g ref="char:EOLhyphen"/>nied nothing but the ſale of Biſhops Lands, and deſired them to ſpeak whether his anſwer was not good to the Com<g ref="char:EOLhyphen"/>miſſioners to that part, offering a Copy to Mr.</hi> Marſhall, but he refuſed it as not having power, nor was it, ſaid he, fit they judge in ſuch things.</p>
+                        <p>When the King could nor get it received, he ſaid, <hi>Is it ſo hot that you fear to burn your fingers.</hi>
+                        </p>
+                        <p>Then his Majeſty declared the three ſcruples, which the Commiſſioners deſired to ſee before the Miniſters had them.</p>
+                        <p>The laſt, which was the Coronation Oath, becauſe de<g ref="char:EOLhyphen"/>pending upon the Law, was judged improper for them to reſolve: the other two <hi>Mr. Marſhall</hi> received, and deſiring to withdraw, the <hi>King</hi> conſented; after they return'd, <hi>Mr. Marſhall, M. Vines,</hi> and <hi>M. Seaman</hi> ſpake: His Maieſty deſired it in writing, which they were wil<g ref="char:EOLhyphen"/>ling, if the Commiſſioners thought fit: they treated a<g ref="char:EOLhyphen"/>bout the Oath at Coronation, and the <hi>Ministers</hi> were <hi>Tueſday</hi> to bring their anſwer, which was done. The <hi>Kings</hi> Biſhops and other Clergy, and the <hi>Ministers</hi> of <hi>Parliament</hi> being preſent, <hi>Mr. Vines</hi> read it, His <hi>Maie<g ref="char:EOLhyphen"/>ſty</hi> deſired it, promiſing to prepare an anſwer; as to the ſale of Biſhops Lands as Sacriledge: the Commiſ. told
+<pb n="5" facs="tcp:162320:4"/>
+                           <!-- PDF PAGE 55 -->his Mai. <hi>that thing lay ſo much in the Laws of the Land, that the Ministers could not judge of it;</hi> at laſt his <hi>Mai.</hi> appeared inclinable, but ſaid, <hi>That if they were aliena<g ref="char:EOLhyphen"/>ted, then they did revert to the Crown.</hi> On <hi>Thurſday</hi> the <hi>King</hi> and the <hi>Com.</hi> debated about the <hi>Directory,</hi> and ta<g ref="char:EOLhyphen"/>king away the <hi>Liturgy,</hi> but nothing concluded of. The <hi>King</hi> in this debate asked, <hi>what fault they found in the Common prayer Book,</hi> one one of the <hi>Commiſ.</hi> anſwered, <hi>He had heard it was the ſaying of a very learned man, that the Liturgy was taken out of the Maſſe Book only ſpoiled in the tranſlation:</hi> Who was that, ſaid his <hi>Maiesty?</hi> It was replied, <hi>It was your Father King</hi> James: His Ma<g ref="char:EOLhyphen"/>jeſty ſaid, <hi>If it were good in it ſelf, that did not make it ill: the King hath ſince made offer of a limited Epiſco<g ref="char:EOLhyphen"/>pacy.</hi>
+                        </p>
+                        <closer>
+                           <dateline>
+                              <hi>Newport,</hi> 
+                              <date>13. October, 1648.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Other letters from the <hi>Commiſ.</hi> on <hi>Wedneſday</hi> laſt, and read in both Houſes ſay, That the <hi>King</hi> grants the <hi>mi<g ref="char:EOLhyphen"/>litia</hi> as is deſired, that is for 20 yeers to be in the <hi>Parl.</hi> and after if occaſion be of uſing the ſword, in caſe the <hi>Parl.</hi> ſee cauſe, the <hi>King</hi> refuſing, the <hi>Parl.</hi> may make war, and to ſuppreſſe any forraign Forces who ſhall invad, or indeavour to invade the kingdoms of <hi>England</hi> and <hi>Ireland,</hi> Dominion of <hi>Wales,</hi> the Iſles of <hi>Guernſey</hi> and <hi>Jerſey,</hi> and the town of <hi>Barwick</hi> upon <hi>Tweed</hi> or any of them.</p>
+            <p>As for the Church which was before it in order, the <hi>King</hi> ſtill refuſes, and offers <hi>Epiſcopacy;</hi> and for the Biſhops Lands, he will not conſent to any other, then a Leaſe for <hi>99</hi> yeers: they are now upon the 4 Bill tou<g ref="char:EOLhyphen"/>ching <hi>Ireland:</hi> the Houſe voted, that the anſwer to the <hi>Church propoſition</hi> is not ſatisfactory, and ordered their
+<pb n="6" facs="tcp:162320:5"/>
+               <!-- PDF PAGE 56 -->
+               <hi>Commiſſioners</hi> to preſſe it to the <hi>King</hi> again, ſo ſoon as the Bill of <hi>Ireland</hi> is over.</p>
+            <p>By an Expreſſe from <hi>Wallingford</hi> it is ſaid, That the aforeſaid Judge <hi>Jenkins</hi> hath ſent a Letter to the <hi>King,</hi> (but intercepted) humbly beſeeching his Majeſty, to ſalve up the Sores of this <hi>Kingdom,</hi> in this preſent per<g ref="char:EOLhyphen"/>ſonall Treaty, and to embrace the opportunity now on foot, and to play his Cards ſo, that he may ingratiate himſelf into the City and Parliament, by offering to come to <hi>Westminſter</hi> to treat, deſiring him to court the Lord Generall <hi>Fairfax,</hi> Lieutenant Generall <hi>Crom<g ref="char:EOLhyphen"/>well,</hi> the Commiſſioners, and others of the Army, by meſſages from himſelf, for the effecting thereof; as alſo to ſend Propoſals to the Army, and to promiſe them large gratuities to be inſtrumentall therein. This Letter is (ſaid to be) directed from <hi>VVallingford</hi> Ca<g ref="char:EOLhyphen"/>ſtle, <hi>Octob.</hi> 12. and<lb/>
+Subſcribed, <hi>D. JENKINS.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
